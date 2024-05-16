@@ -5,4 +5,4 @@
 
  Você pode acessar o site clicando logo abaixo no link:
 
- [https://guioliveirx.github.io/project-cordel]
+ [https://guioliveirx.github.io/project_cordel/]
